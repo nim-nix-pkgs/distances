@@ -11,7 +11,6 @@
   inputs.src-distances-v0_1_0.ref   = "refs/tags/v0.1.0";
   inputs.src-distances-v0_1_0.owner = "ayman-albaz";
   inputs.src-distances-v0_1_0.repo  = "distances";
-  inputs.src-distances-v0_1_0.dir   = "";
   inputs.src-distances-v0_1_0.type  = "github";
   
   inputs."arraymancer".owner = "nim-nix-pkgs";

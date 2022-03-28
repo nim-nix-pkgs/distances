@@ -11,7 +11,6 @@
   inputs.src-distances-master.ref   = "refs/heads/master";
   inputs.src-distances-master.owner = "ayman-albaz";
   inputs.src-distances-master.repo  = "distances";
-  inputs.src-distances-master.dir   = "";
   inputs.src-distances-master.type  = "github";
   
   inputs."arraymancer".owner = "nim-nix-pkgs";
